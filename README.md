@@ -9,7 +9,8 @@ This project is an interactive **Sales Analytics Dashboard** developed in **Powe
 
 # Dashboard Preview
 
-![Blinkit Dashboard](image\(21\).png)
+<img width="1288" height="727" alt="image" src="https://github.com/user-attachments/assets/11ec5077-eeac-4e04-869f-8b7967063829" />
+
 
 ---
 
