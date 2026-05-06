@@ -138,12 +138,3 @@ This dashboard helps businesses:
 
 ---
 
-# Author
-
-**Rohit**
-M.Tech Data Science & Engineering
-National Institute of Technology (NIT) Jamshedpur
-
-* LinkedIn: [https://www.linkedin.com/in/rohit-raj088/](https://www.linkedin.com/in/rohit-raj088/)
-* GitHub: [https://github.com/Rohitraj088](https://github.com/Rohitraj088)
-* Kaggle: [https://www.kaggle.com/rohitrj088](https://www.kaggle.com/rohitrj088)
